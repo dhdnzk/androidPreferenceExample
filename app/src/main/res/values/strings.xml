@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">Preference Practice</string>
+    <string name="action_setting">action_setting</string>
+
+    <!-- checkbox -->
+    <string name="check_box_key">checkbox_key</string>
+    <string name="check_box_label">Set check box</string>
+    <string name="check_box_summary_on">on</string>
+    <string name="check_box_summary_off">off</string>
+
+    <!-- list -->
+    <string name="list_key">list_key</string>
+    <string name="list_label">Select item</string>
+
+    <string name="list_red_label">Red</string>
+    <string name="list_blue_label">Blue</string>
+    <string name="list_green_label">Green</string>
+
+    <string name="list_red_value">red</string>
+    <string name="list_blue_value">blue</string>
+    <string name="list_green_value">green</string>
+
+    <!-- edit text -->
+    <string name="edit_text_key">edit_text_key</string>
+    <string name="edit_text_label">Set edit text</string>
+    <string name="edit_text_default_value">This sentence is default value of edit text</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- list -->
+    <array name="list_labels">
+        <item>@string/list_red_label</item>
+        <item>@string/list_blue_label</item>
+        <item>@string/list_green_label</item>
+    </array>
+
+    <array name="list_entry_values">
+        <item>@string/list_red_value</item>
+        <item>@string/list_blue_value</item>
+        <item>@string/list_green_value</item>
+    </array>
+
+</resources>
