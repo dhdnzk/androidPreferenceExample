@@ -1,0 +1,3 @@
+# androidPreferenceExample
+- OnSharedPreferenceChangeListener
+- OnPreferenceChangeListener
